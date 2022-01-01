@@ -1,9 +1,9 @@
 # Code-Up-Algorithm
 
-![](https://img.shields.io/github/commit-activity/y/Tanya58/Code-Up-Algorithm)
-![](https://img.shields.io/github/commit-activity/m/Tanya58/Code-Up-Algorithm)
-![](https://img.shields.io/github/commit-activity/w/Tanya58/Code-Up-Algorithm)
-![](https://img.shields.io/github/last-commit/Tanya58/Code-Up-Algorithm)
+![](https://img.shields.io/github/commit-activity/y/iijung/Code-Up-Algorithm)
+![](https://img.shields.io/github/commit-activity/m/iijung/Code-Up-Algorithm)
+![](https://img.shields.io/github/commit-activity/w/iijung/Code-Up-Algorithm)
+![](https://img.shields.io/github/last-commit/iijung/Code-Up-Algorithm)
 
 [CodeUp](https://codeup.kr/)에서 푼 문제를 관리하기 위한 저장소입니다.
 
